@@ -1,0 +1,12 @@
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.csproj.AssemblyReference.cache
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.AssemblyInfoInputs.cache
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.AssemblyInfo.cs
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.csproj.CoreCompileInputs.cache
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/bin/Debug/net6.0/Polybios.deps.json
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/bin/Debug/net6.0/Polybios.dll
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/bin/Debug/net6.0/Polybios.pdb
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.dll
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/refint/Polybios.dll
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/Polybios.pdb
+/Users/mhafer/Develop/github.com/maxihafer/polybios-chiffre/polybios-chiffre/Polybios/obj/Debug/net6.0/ref/Polybios.dll
